@@ -1,0 +1,29 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.pub-cache/
+.pub/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Cloud
+service-account-key.json
+.env
+.env.local
+.env.production
+
+# Logs  
+*.log
+*.err
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+node_modules/
